@@ -3,6 +3,12 @@
 A two-position (on/off) temperature regulation system built with a Raspberry Pi Pico microcontroller, Flask web interface, and MQTT communication protocol. The system automatically controls a relay based on measured vs. target temperature, with real-time monitoring and control via a local network web interface.
 
 ---
+ 
+## Demo
+ 
+▶️ [Watch the project demo on YouTube](https://www.youtube.com/watch?v=0gDE3Y_EYXI)
+ 
+---
 
 ## How It Works
 
